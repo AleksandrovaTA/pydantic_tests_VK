@@ -1,0 +1,1 @@
+# pydantic_tests_VK
